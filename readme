@@ -1,0 +1,5 @@
+to run code 
+pip install flask joblib pandas scikit-learn matplotlib
+python app.py
+
+open http://127.0.0.1:5000/

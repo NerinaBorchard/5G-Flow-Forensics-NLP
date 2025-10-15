@@ -1,0 +1,101 @@
+text,Label
+srcip=20.143.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=85664319 fwdbytelen=0 bwdbytelen=0,benign
+srcip=92.213.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=11482207 fwdbytelen=0 bwdbytelen=0,benign
+srcip=7.189.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=7172179 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=78.211.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=2495296 fwdbytelen=0 bwdbytelen=0,benign
+srcip=44.109.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=67288883 fwdbytelen=0 bwdbytelen=0,benign
+srcip=74.118.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=18 fwdbytelen=0 bwdbytelen=0,benign
+srcip=44.186.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=5 fwdbytelen=0 bwdbytelen=0,benign
+srcip=211.95.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=79968830 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=243.199.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=14 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=161.64.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=26 fwdbytelen=0 bwdbytelen=0,benign
+srcip=143.25.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=1923754 fwdbytelen=0 bwdbytelen=0,benign
+srcip=197.120.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=22 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=147.68.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=42554437 fwdbytelen=0 bwdbytelen=0,benign
+srcip=181.3.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=11294020 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=111.73.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=4 bwdpkts=0 duration=94945486 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=124.25.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=45825143 fwdbytelen=0 bwdbytelen=0,benign
+srcip=10.206.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=10 fwdbytelen=0 bwdbytelen=0,benign
+srcip=211.253.10.100 dstip=111.6.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=30 fwdbytelen=0 bwdbytelen=0,benign
+srcip=65.236.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=89561397 fwdbytelen=0 bwdbytelen=0,benign
+srcip=39.38.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=28 fwdbytelen=0 bwdbytelen=0,benign
+srcip=171.93.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=55807057 fwdbytelen=0 bwdbytelen=0,benign
+srcip=27.180.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=6 fwdbytelen=0 bwdbytelen=0,benign
+srcip=55.238.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=91467435 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=140.2.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=35912391 fwdbytelen=0 bwdbytelen=0,benign
+srcip=126.205.10.100 dstip=111.12.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=9 fwdbytelen=0 bwdbytelen=0,benign
+srcip=163.98.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=32603578 fwdbytelen=0 bwdbytelen=0,benign
+srcip=34.204.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=14 fwdbytelen=0 bwdbytelen=0,benign
+srcip=23.247.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=14 fwdbytelen=0 bwdbytelen=0,benign
+srcip=149.43.10.100 dstip=111.17.10.100 protocol=0 fwdpkts=20 bwdpkts=0 duration=115899031 fwdbytelen=0 bwdbytelen=0,benign
+srcip=30.163.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=55420515 fwdbytelen=0 bwdbytelen=0,benign
+srcip=70.113.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=19 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=55.30.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=12 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=102.182.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=116338083 fwdbytelen=0 bwdbytelen=0,benign
+srcip=75.194.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=26 fwdbytelen=0 bwdbytelen=0,benign
+srcip=13.154.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=108451155 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=134.204.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=40337804 fwdbytelen=0 bwdbytelen=0,benign
+srcip=20.132.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=17 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=218.173.10.100 dstip=111.12.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=7 fwdbytelen=0 bwdbytelen=0,benign
+srcip=163.162.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=89959970 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=79.115.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=6 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=183.130.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=8097377 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=123.167.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=51385647 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=152.111.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=93639454 fwdbytelen=0 bwdbytelen=0,benign
+srcip=218.224.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=4 bwdpkts=0 duration=90936120 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=103.37.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=96412935 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=211.3.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=5 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=240.249.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=4 bwdpkts=0 duration=65125942 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=180.53.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=4061 fwdbytelen=0 bwdbytelen=0,benign
+srcip=103.205.10.100 dstip=111.6.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=26 fwdbytelen=0 bwdbytelen=0,benign
+srcip=79.11.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=54658367 fwdbytelen=0 bwdbytelen=0,benign
+srcip=46.54.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=7 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=89.54.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=75223766 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=219.113.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=32669813 fwdbytelen=0 bwdbytelen=0,benign
+srcip=18.187.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=5 fwdbytelen=0 bwdbytelen=0,benign
+srcip=86.31.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=29396763 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=113.76.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=13 fwdbytelen=0 bwdbytelen=0,benign
+srcip=83.115.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=16 fwdbytelen=0 bwdbytelen=0,benign
+srcip=80.161.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=88004124 fwdbytelen=0 bwdbytelen=0,benign
+srcip=179.168.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=90979704 fwdbytelen=0 bwdbytelen=0,benign
+srcip=34.248.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=14 fwdbytelen=0 bwdbytelen=0,benign
+srcip=251.125.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=88197840 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=0.18.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=11 fwdbytelen=0 bwdbytelen=0,benign
+srcip=30.215.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=45845798 fwdbytelen=0 bwdbytelen=0,benign
+srcip=100.176.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=5 fwdbytelen=0 bwdbytelen=0,benign
+srcip=223.193.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=90654333 fwdbytelen=0 bwdbytelen=0,benign
+srcip=67.239.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=10 fwdbytelen=0 bwdbytelen=0,benign
+srcip=7.134.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=69649417 fwdbytelen=0 bwdbytelen=0,benign
+srcip=104.48.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=87245273 fwdbytelen=0 bwdbytelen=0,benign
+srcip=112.48.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=8 fwdbytelen=0 bwdbytelen=0,benign
+srcip=253.251.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=79101173 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=164.46.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=4 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=40.54.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=4 fwdbytelen=0 bwdbytelen=0,benign
+srcip=73.189.10.100 dstip=111.6.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=16 fwdbytelen=0 bwdbytelen=0,benign
+srcip=56.118.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=9 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=182.131.10.100 dstip=111.13.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=21 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=167.210.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=24348535 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=232.72.10.100 dstip=111.8.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=25 fwdbytelen=0 bwdbytelen=0,benign
+srcip=141.88.10.100 dstip=111.7.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=75214278 fwdbytelen=0 bwdbytelen=0,SMA Subscribe Notify
+srcip=210.220.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=4 bwdpkts=0 duration=96612854 fwdbytelen=0 bwdbytelen=0,benign
+srcip=90.197.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=42076880 fwdbytelen=0 bwdbytelen=0,benign
+srcip=211.106.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=24302023 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=142.11.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=3 bwdpkts=0 duration=31818679 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=40.239.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=76252119 fwdbytelen=0 bwdbytelen=0,benign
+srcip=12.109.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=24 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=195.14.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=86952121 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=243.134.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=43930928 fwdbytelen=0 bwdbytelen=0,benign
+srcip=104.7.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=116996873 fwdbytelen=0 bwdbytelen=0,benign
+srcip=175.204.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=30249093 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=102.41.10.100 dstip=111.12.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=13 fwdbytelen=0 bwdbytelen=0,benign
+srcip=110.171.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=17 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=27.231.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=56703665 fwdbytelen=0 bwdbytelen=0,benign
+srcip=64.204.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=22 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=168.111.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=24078496 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=26.137.10.100 dstip=111.6.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=18 fwdbytelen=0 bwdbytelen=0,benign
+srcip=95.111.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=9 fwdbytelen=0 bwdbytelen=0,benign
+srcip=181.181.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=63 fwdbytelen=0 bwdbytelen=0,Rapid Reset
+srcip=140.25.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=9 fwdbytelen=0 bwdbytelen=0,benign
+srcip=212.93.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=43885828 fwdbytelen=0 bwdbytelen=0,benign
+srcip=2.87.10.100 dstip=111.11.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=11 fwdbytelen=0 bwdbytelen=0,benign
+srcip=36.154.211.16 dstip=0.212.70.55 protocol=0 fwdpkts=2 bwdpkts=0 duration=56273530 fwdbytelen=0 bwdbytelen=0,benign

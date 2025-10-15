@@ -1,0 +1,62 @@
+<!-- templates/report_template.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Digital Forensics Report — 5G Flow</title>
+  <style>
+    body{ font-family: Arial, sans-serif; color:#111; padding:18px; max-width:900px; margin:auto; }
+    header{ border-bottom:2px solid #eee; padding-bottom:12px; margin-bottom:12px; }
+    h1{ margin:0; font-size:20px;}
+    small{ color:#666; }
+    .section{ margin-top:14px; padding:12px; border:1px solid #f1f1f1; border-radius:6px; background:#fff; }
+    .token{ display:inline-block; padding:6px 8px; background:#f7f7fb; margin:4px; border-radius:6px; }
+    .timeline{ width:100%; max-width:700px; margin-top:10px; }
+    table{ border-collapse:collapse; width:100%; margin-top:10px;}
+    table td, table th{ border:1px solid #ddd; padding:8px; text-align:left;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Digital Forensics Report — Flow Analysis</h1>
+    <small>Generated: </small>
+  </header>
+
+  <div class="section">
+    <h3>Prediction Summary</h3>
+    <p><strong>Predicted Label:</strong> Rapid Reset</p>
+    <p><strong>Probability:</strong> 79.52%</p>
+    <p><strong>Flow (text):</strong></p>
+    <pre style="background:#fafafa;padding:10px;border-radius:6px;">srcip=181.3.10.100 dstip=111.10.10.100 protocol=0 fwdpkts=2 bwdpkts=0 duration=11294020 fwdbytelen=0 bwdbytelen=0</pre>
+  </div>
+
+  <div class="section">
+    <h3>Top contributing tokens</h3>
+    
+      
+        <span class="token">10 &nbsp; (score: 8.5015)</span>
+      
+        <span class="token">111 &nbsp; (score: 0.1582)</span>
+      
+        <span class="token">181 &nbsp; (score: 0.0401)</span>
+      
+    
+  </div>
+
+  
+
+  <div class="section">
+    <h3>Interpretation & Forensic Notes</h3>
+    <ul>
+      <li>The model uses TF-IDF to transform structured flow fields into a textual feature space and Logistic Regression for classification.</li>
+      <li>Top tokens shown above indicate which tokens in this flow contributed most to the classification score for the predicted label.</li>
+      <li>Use the timeline chart to inspect when similar labeled flows occurred; spikes may indicate bursts of anomalous activity.</li>
+      <li>Limitations: TF-IDF ignores temporal sequence; model performance depends on representativeness of the training data.</li>
+    </ul>
+  </div>
+
+  <footer style="margin-top:16px; color:#777; font-size:13px;">
+    Prototype Forensics Report — 5G Flow Analysis
+  </footer>
+</body>
+</html>
