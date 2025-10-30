@@ -1,11 +1,11 @@
-# 🛰️ 5G Flow Forensics — NLP-Based Attack Detection
+# 5G Flow Forensics — NLP-Based Attack Detection
 
 A Natural Language Processing (NLP)-inspired digital forensics prototype for automated classification of 5G network traffic flows.  
 This project demonstrates how structured network flow data can be analyzed using TF-IDF feature extraction and Logistic Regression to identify anomalous or malicious activity.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The system converts raw 5G network flows into textual **“key=value”** form, vectorizes them using **TF–IDF**, and classifies each record as either **Rapid Reset**, **SMA Subscribe Notify**, or **Benign**.  
 
@@ -71,7 +71,7 @@ http://127.0.0.1:5000/
 
 - Click Run Prediction to see:
 
-<<<<<<< Updated upstream
+
    - The predicted label
   
    - Probability of the prediction
@@ -79,21 +79,11 @@ http://127.0.0.1:5000/
    - Top contributing tokens
 
 
-=======
-<<<<<<< HEAD
-- - The predicted label
 
-- - Probability of the prediction
 
-- - Top contributing tokens
-=======
-   - The predicted label
-  
-   - Probability of the prediction
+   
   
    - Top contributing tokens
 
 
->>>>>>> 280703d39cf2682292e970acb64a1967f531a10c
->>>>>>> Stashed changes
 
