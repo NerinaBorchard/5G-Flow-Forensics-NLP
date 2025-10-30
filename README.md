@@ -13,7 +13,7 @@ This approach allows interpretable forensic analysis of network activity without
 
 ---
 
-## 🧩 Architecture Pipeline
+## Architecture Pipeline
 
 - **Input:** raw 5G network flows in `key=value` format  
 - **Processing:** TF-IDF vectorization of flow attributes  
@@ -22,17 +22,17 @@ This approach allows interpretable forensic analysis of network activity without
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Interactive **web-based prototype** built with Flask and HTML/CSS  
-- Accepts **manual flow input** or **uploaded CSV data** (optional)  
+ - Accepts **manual flow input** <!--or **uploaded CSV data** (optional)   -->
 - Performs **real-time classification** using a pre-trained Logistic Regression model  
 - Displays predicted label, confidence score, and **token-level feature contributions**  
 - Clean, minimal UI suitable for presentations and teaching  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Flask** – Web interface
@@ -43,7 +43,7 @@ This approach allows interpretable forensic analysis of network activity without
 
 ---
 
-## 🚀 How to Run the Prototype
+##  How to Run the Prototype
 
 ### 1. Install required Python packages
 Open a terminal and run:
@@ -71,6 +71,7 @@ http://127.0.0.1:5000/
 
 - Click Run Prediction to see:
 
+<<<<<<< Updated upstream
    - The predicted label
   
    - Probability of the prediction
@@ -78,4 +79,21 @@ http://127.0.0.1:5000/
    - Top contributing tokens
 
 
+=======
+<<<<<<< HEAD
+- - The predicted label
+
+- - Probability of the prediction
+
+- - Top contributing tokens
+=======
+   - The predicted label
+  
+   - Probability of the prediction
+  
+   - Top contributing tokens
+
+
+>>>>>>> 280703d39cf2682292e970acb64a1967f531a10c
+>>>>>>> Stashed changes
 
