@@ -67,13 +67,15 @@ http://127.0.0.1:5000/
 ```
 ### 4. Use the prototype
 
--Paste a raw 5G flow in the text box OR fill in the form fields.
+- Paste a raw 5G flow in the text box OR fill in the form fields.
 
--Click Run Prediction to see:
+- Click Run Prediction to see:
 
---The predicted label
+   - The predicted label
+  
+   - Probability of the prediction
+  
+   - Top contributing tokens
 
---Probability of the prediction
 
---Top contributing tokens
 
